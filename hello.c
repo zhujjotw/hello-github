@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 
-void main()
+int main()
 {
 
 	printf("hello world!");
 	
-	return ;
+	return 1;
 }
